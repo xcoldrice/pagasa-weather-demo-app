@@ -1,0 +1,44 @@
+{
+  "run_id": "run_1452fdf52f07",
+  "status": "success",
+  "product_type": "rainfall",
+  "summary": {
+    "min_value": 0.0,
+    "max_value": 150.0,
+    "mean_value": 110.93
+  },
+  "files": {
+    "input_url": "/data/uploads/run_1452fdf52f07.png",
+    "overlay_url": "/data/processed/run_1452fdf52f07_overlay.png",
+    "result_url": "/api/results/run_1452fdf52f07"
+  },
+  "risk_score": {
+    "score": 100,
+    "level": "critical"
+  },
+  "insights": [
+    {
+      "level": "high",
+      "title": "Flood preparedness",
+      "message": "Review low-lying and flood-prone areas and increase monitoring."
+    },
+    {
+      "level": "medium",
+      "title": "Area-wide monitoring",
+      "message": "Consider issuing readiness notices for affected local operations teams."
+    }
+  ],
+  "ai_summary": {
+    "executive_summary": "Critical rainfall conditions detected based on extracted map values.",
+    "key_risks": [
+      "Localized flooding in vulnerable zones",
+      "Transport disruption in heavily affected areas"
+    ],
+    "recommended_actions": [
+      "Increase local monitoring frequency",
+      "Prepare contingency communication",
+      "Review flood response readiness"
+    ],
+    "plain_language_summary": "Rainfall conditions may affect some areas, so local teams should stay alert."
+  }
+}
