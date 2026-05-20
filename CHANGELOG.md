@@ -29,3 +29,8 @@ Fixed release changelogs.
 ## [1.0.69] - 2026-05-20
 ### Added
 - Added new Function bla bla bla
+
+## [1.1.0] - 2026-05-20
+
+### Changed
+- updated release and deploy workflor for git hub actions
