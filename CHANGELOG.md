@@ -34,3 +34,8 @@ Fixed release changelogs.
 
 ### Changed
 - updated release and deploy workflor for git hub actions
+
+## [1.1.68] - 2026-05-20
+
+### Changed
+- updated domain to ip
