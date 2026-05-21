@@ -39,3 +39,8 @@ Fixed release changelogs.
 
 ### Changed
 - updated domain to ip
+
+## [1.1.799] - 2026-05-21
+
+### Changed
+- updated docker git release yml vite_base_api
